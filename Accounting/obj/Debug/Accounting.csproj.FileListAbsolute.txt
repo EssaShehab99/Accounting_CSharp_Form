@@ -1,0 +1,257 @@
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\bin\Debug\Accounting.exe.config
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\bin\Debug\Accounting.exe
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\bin\Debug\Accounting.pdb
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Login_Form.resources
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Main_Form.resources
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.exe
+c:\users\essa salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\bin\Debug\db_accounting.mdf
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\bin\Debug\db_accounting_log.ldf
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\bin\Debug\EntityFramework.dll
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\bin\Debug\EntityFramework.xml
+C:\Users\Essa Salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Request.resources
+C:\Users\Essa Salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Users.resources
+C:\Users\Essa Salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Customers.resources
+C:\Users\Essa Salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Products.resources
+C:\Users\Essa Salam\documents\visual studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Report.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting\Accounting\bin\Debug\Accounting.exe.config
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting\Accounting\obj\Debug\Accounting.exe
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.PrintReport.resources
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\RdlCompile.cache
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\RdlCompile.compiled
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+F:\Accounting\Accounting\bin\Debug\Accounting.exe.config
+F:\Accounting\Accounting\obj\Debug\Accounting.exe
+F:\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\bin\Debug\db_accounting.mdf
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\bin\Debug\db_accounting_log.ldf
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\bin\Debug\EntityFramework.dll
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\bin\Debug\EntityFramework.xml
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Customers.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Login_Form.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Main_Form.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Products.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.PrintReport.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Request.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Users.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Report.resources
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\RdlCompile.cache
+C:\Users\Essa Salam\Desktop\New folder (2)\Accounting\Accounting\obj\Debug\RdlCompile.compiled
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\bin\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\bin\Debug\Accounting.application
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.application
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\db_accounting.mdf
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\db_accounting_log.ldf
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\Accounting.application
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\EntityFramework.dll
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\bin\Debug\EntityFramework.xml
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Customers.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Login_Form.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Main_Form.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Products.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.PrintReport.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Request.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Users.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.Report.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\RdlCompile.cache
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\RdlCompile.compiled
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting\Accounting\obj\Debug\Accounting.application
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\db_accounting.mdf
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\db_accounting_log.ldf
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\Accounting.application
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\EntityFramework.dll
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\bin\Debug\EntityFramework.xml
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Customers.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Login_Form.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Main_Form.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Products.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.PrintReport.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Request.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Users.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.Report.resources
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\RdlCompile.cache
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\RdlCompile.compiled
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Desktop\New folder (4)\Accounting1\Accounting\obj\Debug\Accounting.application
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\Accounting.exe.config
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.exe
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.pdb
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\db_accounting.mdf
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\db_accounting_log.ldf
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\Accounting.exe.manifest
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\Accounting.application
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\Accounting.exe
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\Accounting.pdb
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\EntityFramework.dll
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\bin\Debug\EntityFramework.xml
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Customers.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Login_Form.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Main_Form.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Products.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.PrintReport.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Request.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Users.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.Report.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\RdlCompile.cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\RdlCompile.compiled
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.exe.manifest
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\Accounting6\Accounting\obj\Debug\Accounting.application
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\db_accounting.mdf
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\db_accounting_log.ldf
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\Accounting.application
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\EntityFramework.dll
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\bin\Debug\EntityFramework.xml
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Customers.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Login_Form.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Main_Form.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Products.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.PrintReport.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Request.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Users.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.Report.resources
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\RdlCompile.cache
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\RdlCompile.compiled
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.exe.manifest
+C:\Users\Essa Salam\Desktop\Accounting\Accounting\obj\Debug\Accounting.application
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.exe.config
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.exe
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.pdb
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\db_accounting.mdf
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\db_accounting_log.ldf
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.exe.manifest
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.application
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.exe
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\Accounting.pdb
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\EntityFramework.dll
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\bin\Debug\EntityFramework.xml
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Customers.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Login_Form.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Main_Form.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Products.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.PrintReport.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Request.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Users.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.Report.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\RdlCompile.cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\RdlCompile.compiled
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.exe.manifest
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\New folder (2)\Accounting\Accounting\obj\Debug\Accounting.application
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\Accounting.exe.config
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.exe
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.pdb
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\db_accounting.mdf
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\db_accounting_log.ldf
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\Accounting.exe.manifest
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\Accounting.application
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\Accounting.exe
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\Accounting.pdb
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\EntityFramework.dll
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\bin\Debug\EntityFramework.xml
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Customers.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Login_Form.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Main_Form.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Products.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.PrintReport.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Request.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Users.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.Report.resources
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\RdlCompile.cache
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\RdlCompile.compiled
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.exe.manifest
+F:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\obj\Debug\Accounting.application
+F:\Accounting\Accounting\bin\Debug\db_accounting.mdf
+F:\Accounting\Accounting\bin\Debug\db_accounting_log.ldf
+F:\Accounting\Accounting\bin\Debug\Accounting.exe.manifest
+F:\Accounting\Accounting\bin\Debug\Accounting.application
+F:\Accounting\Accounting\bin\Debug\Accounting.exe
+F:\Accounting\Accounting\bin\Debug\Accounting.pdb
+F:\Accounting\Accounting\bin\Debug\EntityFramework.dll
+F:\Accounting\Accounting\bin\Debug\EntityFramework.xml
+F:\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+F:\Accounting\Accounting\obj\Debug\Accounting.Exchange_Money.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Customers.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Login_Form.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Main_Form.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Products.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.PrintReport.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.PrintInvoice.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Request.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Users.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.Report.resources
+F:\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+F:\Accounting\Accounting\obj\Debug\RdlCompile.cache
+F:\Accounting\Accounting\obj\Debug\RdlCompile.compiled
+F:\Accounting\Accounting\obj\Debug\Accounting.exe.manifest
+F:\Accounting\Accounting\obj\Debug\Accounting.application
+E:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\Accounting\bin\Debug\Accounting.exe.config
+E:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\Accounting\obj\Debug\Accounting.exe
+E:\جامعة صنعاء\سنة ثانية\الترم الثاني\البرمجة الهدفية\عملي\عيسى شهاب احمد عبدالله-برنامج المبيعات واجهات\Accounting\Accounting\Accounting\obj\Debug\Accounting.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="db_accountingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="db_accountingModelStoreContainer">
+    <EntitySet Name="customers" EntityType="db_accountingModel.Store.customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Invoices" EntityType="db_accountingModel.Store.Invoices" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="items" EntityType="db_accountingModel.Store.items" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="products" EntityType="db_accountingModel.Store.products" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Invoices_ToTable_1" Association="db_accountingModel.Store.FK_Invoices_ToTable_1">
+      <End Role="customers" EntitySet="customers" />
+      <End Role="Invoices" EntitySet="Invoices" />
+    </AssociationSet>
+    <AssociationSet Name="FK_items_ToTable" Association="db_accountingModel.Store.FK_items_ToTable">
+      <End Role="products" EntitySet="products" />
+      <End Role="items" EntitySet="items" />
+    </AssociationSet>
+    <AssociationSet Name="FK_items_ToTable_1" Association="db_accountingModel.Store.FK_items_ToTable_1">
+      <End Role="Invoices" EntitySet="Invoices" />
+      <End Role="items" EntitySet="items" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="customers">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="customer_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="date" Type="datetime" />
+    <Property Name="amount_creditor" Type="money" />
+    <Property Name="amount_debit" Type="money" />
+    <Property Name="user_id" Type="int" />
+    <Property Name="phone_number" Type="numeric" Precision="9" />
+  </EntityType>
+  <EntityType Name="Invoices">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="customer_id" Type="int" Nullable="false" />
+    <Property Name="total_price" Type="money" Nullable="false" />
+    <Property Name="date" Type="datetime" Nullable="false" />
+    <Property Name="user_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="items">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="product_id" Type="int" />
+    <Property Name="Invoice_id" Type="int" />
+    <Property Name="number_items" Type="int" />
+    <Property Name="price_item" Type="money" />
+  </EntityType>
+  <EntityType Name="products">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="product_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="quantity" Type="int" />
+    <Property Name="price" Type="money" />
+    <Property Name="date" Type="datetime" />
+    <Property Name="Expiry_date" Type="datetime" />
+    <Property Name="user_id" Type="int" />
+  </EntityType>
+  <Association Name="FK_Invoices_ToTable_1">
+    <End Role="customers" Type="db_accountingModel.Store.customers" Multiplicity="1" />
+    <End Role="Invoices" Type="db_accountingModel.Store.Invoices" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Invoices">
+        <PropertyRef Name="customer_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_items_ToTable">
+    <End Role="products" Type="db_accountingModel.Store.products" Multiplicity="0..1" />
+    <End Role="items" Type="db_accountingModel.Store.items" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="items">
+        <PropertyRef Name="product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_items_ToTable_1">
+    <End Role="Invoices" Type="db_accountingModel.Store.Invoices" Multiplicity="0..1" />
+    <End Role="items" Type="db_accountingModel.Store.items" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Invoices">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="items">
+        <PropertyRef Name="Invoice_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="db_accountingModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="db_accountingEntities1" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="customers" EntityType="db_accountingModel.customer" />
+    <EntitySet Name="Invoices" EntityType="db_accountingModel.Invoice" />
+    <EntitySet Name="items" EntityType="db_accountingModel.item" />
+    <EntitySet Name="products" EntityType="db_accountingModel.product" />
+    <AssociationSet Name="FK_Invoices_ToTable_1" Association="db_accountingModel.FK_Invoices_ToTable_1">
+      <End Role="customers" EntitySet="customers" />
+      <End Role="Invoices" EntitySet="Invoices" />
+    </AssociationSet>
+    <AssociationSet Name="FK_items_ToTable_1" Association="db_accountingModel.FK_items_ToTable_1">
+      <End Role="Invoices" EntitySet="Invoices" />
+      <End Role="items" EntitySet="items" />
+    </AssociationSet>
+    <AssociationSet Name="FK_items_ToTable" Association="db_accountingModel.FK_items_ToTable">
+      <End Role="products" EntitySet="products" />
+      <End Role="items" EntitySet="items" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="customer">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="customer_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="date" Type="DateTime" Precision="3" />
+    <Property Name="amount_creditor" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="amount_debit" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="user_id" Type="Int32" />
+    <Property Name="phone_number" Type="Decimal" Precision="9" Scale="0" />
+    <NavigationProperty Name="Invoices" Relationship="db_accountingModel.FK_Invoices_ToTable_1" FromRole="customers" ToRole="Invoices" />
+  </EntityType>
+  <EntityType Name="Invoice">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="customer_id" Type="Int32" Nullable="false" />
+    <Property Name="total_price" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="user_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="customer" Relationship="db_accountingModel.FK_Invoices_ToTable_1" FromRole="Invoices" ToRole="customers" />
+    <NavigationProperty Name="items" Relationship="db_accountingModel.FK_items_ToTable_1" FromRole="Invoices" ToRole="items" />
+  </EntityType>
+  <EntityType Name="item">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="product_id" Type="Int32" />
+    <Property Name="Invoice_id" Type="Int32" />
+    <Property Name="number_items" Type="Int32" />
+    <Property Name="price_item" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="Invoice" Relationship="db_accountingModel.FK_items_ToTable_1" FromRole="items" ToRole="Invoices" />
+    <NavigationProperty Name="product" Relationship="db_accountingModel.FK_items_ToTable" FromRole="items" ToRole="products" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="product_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="quantity" Type="Int32" />
+    <Property Name="price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="date" Type="DateTime" Precision="3" />
+    <Property Name="Expiry_date" Type="DateTime" Precision="3" />
+    <Property Name="user_id" Type="Int32" />
+    <NavigationProperty Name="items" Relationship="db_accountingModel.FK_items_ToTable" FromRole="products" ToRole="items" />
+  </EntityType>
+  <Association Name="FK_Invoices_ToTable_1">
+    <End Role="customers" Type="db_accountingModel.customer" Multiplicity="1" />
+    <End Role="Invoices" Type="db_accountingModel.Invoice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Invoices">
+        <PropertyRef Name="customer_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_items_ToTable_1">
+    <End Role="Invoices" Type="db_accountingModel.Invoice" Multiplicity="0..1" />
+    <End Role="items" Type="db_accountingModel.item" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Invoices">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="items">
+        <PropertyRef Name="Invoice_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_items_ToTable">
+    <End Role="products" Type="db_accountingModel.product" Multiplicity="0..1" />
+    <End Role="items" Type="db_accountingModel.item" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="items">
+        <PropertyRef Name="product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
